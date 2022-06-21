@@ -1,0 +1,438 @@
+{
+  "users": [
+    {
+      "firstName": "Chris",
+      "lastName": "Abbondandelo",
+      "userName": "abbondcj",
+      "email": "abbondcj@gmail.com",
+      "birthday": "1997-12-02",
+      "county": "Davidson",
+      "state": "TN",
+      "displayLocation": true,
+      "createDate": "Mon May 23 2022 20:19:23 GMT-0500 (Central Daylight Time)",
+      "profilePhoto": "https://cdn.britannica.com/01/127301-050-68D999A2/Albacore.jpg",
+      "bio": "I mainly fly fish for trout in free stone mountain streams and tailwaters throughout SW Virginia, Middle/East Tennessee, and New York",
+      "primaryMethod": "Fly",
+      "id": 1
+    },
+    {
+      "firstName": "Mike",
+      "lastName": "Abbondandelo",
+      "userName": "mikey",
+      "email": "mabbondandelo@gmail.com",
+      "birthday": "2000-08-03",
+      "county": "Suffolk",
+      "state": "NY",
+      "displayLocation": true,
+      "createDate": "Tues May 24 2022 11:19:23 GMT-0500 (Central Daylight Time)",
+      "profilePhoto": "https://www.marlinmag.com/wp-content/uploads/sites/15/2021/09/mar1116_bac_1thumb.jpg",
+      "bio": "I mainly fly fish for beaches or lakes in New York",
+      "primaryMethod": "Spin",
+      "id": 2
+    },
+    {
+      "firstName": "Ryan",
+      "lastName": "Postiglione",
+      "userName": "stigmopfly",
+      "email": "stig@gmail.com",
+      "birthday": "1997-12-17",
+      "county": "Suffolk",
+      "state": "NY",
+      "displayLocation": false,
+      "createDate": "Wed May 25 2022 1:19:23 GMT-0500 (Central Daylight Time)",
+      "profilePhoto": "https://vignette.wikia.nocookie.net/41dec044-5172-4af1-a940-928f5f0d1bf7/scale-to-width-down/1200",
+      "bio": "I only fish at  the Connetquot River in NY",
+      "primaryMethod": "Fly",
+      "id": 3
+    },
+    {
+      "firstName": "Nicole",
+      "lastName": "Abbondandelo",
+      "userName": "coley",
+      "email": "flower@gmail.com",
+      "birthday": "2000-08-03",
+      "county": "Suffolk",
+      "state": "NY",
+      "displayLocation": true,
+      "createDate": "Wed May 25 2022 1:30:23 GMT-0500 (Central Daylight Time)",
+      "profilePhoto": "https://www.aquariumofpacific.org/images/made_new/images-olc-king_crop_400_q85.jpg",
+      "bio": "I like catching starfish",
+      "primaryMethod": "Spin",
+      "id": 4
+    },
+    {
+      "firstName": "Erin",
+      "lastName": "Toney",
+      "username": "elt",
+      "email": "elt@mail.com",
+      "birthday": "1999-09-28",
+      "county": "Bedford",
+      "state": "Virginia",
+      "displayLocation": "true",
+      "createDate": "2022-06-04T17:16:53.323Z",
+      "profilePhoto": "https://www.anglersjournal.com/.image/t_share/MTY3NDQyNTk1MDc5NzkyMjQw/prm-iceland-brown-trout.jpg",
+      "bio": "Fishing is so fun",
+      "primaryMethod": "Fly fishing",
+      "id": 5
+    },
+    {
+      "firstName": "Dalton",
+      "lastName": "Howard",
+      "username": "dhoward",
+      "email": "dhow@mail.com",
+      "birthday": "1995-01-10",
+      "county": "Carroll",
+      "state": "Ohio",
+      "displayLocation": "true",
+      "createDate": "2022-06-04T17:32:32.450Z",
+      "profilePhoto": "https://image-cdn.essentiallysports.com/wp-content/uploads/20201230182931/take.jpg",
+      "bio": "Ohio is great for fishing",
+      "primaryMethod": "Spin fishing",
+      "id": 6
+    },
+    {
+      "firstName": "Scott",
+      "lastName": "Venturino",
+      "username": "scotty",
+      "email": "scoot@mail.com",
+      "birthday": "1997-04-01",
+      "county": "Suffolk",
+      "state": "NewYork",
+      "displayLocation": "true",
+      "createDate": "2022-06-04T18:07:22.863Z",
+      "profilePhoto": "https://image.shutterstock.com/image-photo/bluefish-pomatomus-saltatrix-7-pound-260nw-1867379185.jpg",
+      "bio": "Googan",
+      "primaryMethod": "Spin fishing",
+      "id": 7
+    },
+    {
+      "firstName": "Charlie",
+      "lastName": "Lukacs",
+      "username": "Chuck",
+      "email": "chuck@mail.com",
+      "birthday": "1998-06-01",
+      "county": "Arlington",
+      "state": "Virginia",
+      "displayLocation": "true",
+      "createDate": "2022-06-04T18:09:18.673Z",
+      "profilePhoto": "https://images.squarespace-cdn.com/content/v1/5a75fcb4017db2761a22cd06/1608080140350-6TO6M2CKG385DSEGAP88/Rory+at+2.jpg?format=2500w",
+      "bio": "Bot",
+      "primaryMethod": "Fly fishing",
+      "id": 8
+    },
+    {
+      "firstName": "Criag",
+      "lastName": "Abbey",
+      "username": "craigelbagel",
+      "email": "craig@mail.com",
+      "birthday": "1969-06-26",
+      "county": "Suffolk",
+      "state": "NewYork",
+      "displayLocation": "true",
+      "createDate": "2022-06-11T14:14:29.977Z",
+      "profilePhoto": "https://s3-media0.fl.yelpcdn.com/bphoto/7OJs2VfxjH8AN6GqL1OZHA/258s.jpg",
+      "bio": "I like fishing in huntington bay",
+      "primaryMethod": "Spin fishing",
+      "id": 9
+    },
+    {
+      "firstName": "Sandra",
+      "lastName": "Abbondandelo",
+      "username": "Sandy",
+      "email": "sand@mail.com",
+      "birthday": "1944-09-28",
+      "county": "Brunswick",
+      "state": "NorthCarolina",
+      "displayLocation": "false",
+      "createDate": "2022-06-11T19:00:31.626Z",
+      "profilePhoto": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https:%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F12%2F2019%2F12%2Frockettes-2000.jpg",
+      "bio": "I like fishing with my grandson",
+      "primaryMethod": "Spin fishing",
+      "id": 10
+    },
+    {
+      "userId": 5,
+      "createDate": "2022-06-20T23:52:15.071Z",
+      "completed": false,
+      "startDate": "2022-06-21",
+      "startTime": "23:30",
+      "endDate": "2022-06-22",
+      "endtime": "02:00",
+      "state": "North Carolina",
+      "city": "Ocean Isle Beach",
+      "waterSystem": "Atlantic Ocean",
+      "plan": "Get rod from sunoco and fish live bait from beach at night, walk to inlet",
+      "public": "true",
+      "id": 11
+    },
+    {
+      "userId": 5,
+      "createDate": "2022-06-20T23:55:41.228Z",
+      "completed": false,
+      "startDate": "2022-06-21",
+      "startTime": "23:30",
+      "endDate": "2022-06-22",
+      "endtime": "02:00",
+      "state": "North Carolina",
+      "city": "Ocean Isle beach",
+      "waterSystem": "Ocean Isle Inlet",
+      "plan": "Fish the inlet with bait",
+      "public": "true",
+      "id": 12
+    }
+  ],
+  "trips": [
+    {
+      "userId": 1,
+      "createDate": "Tues May 24 2022 11:19:23 GMT-0500 (Central Daylight Time)",
+      "completed": true,
+      "startDate": "05-26-2022",
+      "startTime": "09:00",
+      "endDate": "05-26-2022",
+      "endTime": "17:00",
+      "state": "TN",
+      "city": "Lynchburg",
+      "waterSystem": "Elk River",
+      "plan": "Drive to elk river Thurs morning and fish until noon, eat lunch and then continue fishing 2nd half of the day",
+      "public": true,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "createDate": "Tues Jun 7 2022 6:19:23 GMT-0500 (Central Daylight Time)",
+      "completed": true,
+      "startDate": "06-26-2022",
+      "startTime": "07:00",
+      "endDate": "06-26-2022",
+      "endTime": "13:00",
+      "state": "VA",
+      "city": "Heathesville",
+      "waterSystem": "Ingram Bay",
+      "plan": "Catch redfish",
+      "public": true,
+      "id": 2
+    },
+    {
+      "userId": 4,
+      "createDate": "Wed May 25 2022 11:19:23 GMT-0500 (Central Daylight Time)",
+      "completed": true,
+      "startDate": "06-1-2022",
+      "startTime": "09:00",
+      "endDate": "06-3-2022",
+      "endTime": "17:00",
+      "state": "NY",
+      "city": "Huntington",
+      "waterSystem": "Huntington Bay",
+      "plan": "Go fluke fishing",
+      "public": true,
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "createDate": "Sun June 5 2022 11:19:23 GMT-0500 (Central Daylight Time)",
+      "completed": false,
+      "startDate": "06-6-2022",
+      "startTime": "17:00",
+      "endDate": "06-6-2022",
+      "endTime": "19:00",
+      "state": "NY",
+      "city": "Northport",
+      "waterSystem": "Twin Ponds",
+      "plan": "Use worm and bobbers for bass",
+      "public": false,
+      "id": 4
+    },
+    {
+      "userId": 4,
+      "createDate": "Tues June 7 2022 9:19:23 GMT-0500 (Central Daylight Time)",
+      "completed": false,
+      "startDate": "06-7-2022",
+      "startTime": "09:30",
+      "endDate": "06-8-2022",
+      "endTime": "17:00",
+      "state": "NY",
+      "city": "Albany",
+      "waterSystem": "Hudson River",
+      "plan": "Try and catch a smallmouth bass",
+      "public": true,
+      "id": 5
+    },
+    {
+      "userId": 9,
+      "createDate": "2022-06-11T14:15:11.729Z",
+      "completed": false,
+      "startDate": "2022-06-11",
+      "startTime": "16:14",
+      "endDate": "2022-06-11",
+      "endTime": "19:14",
+      "state": "North Carolina",
+      "city": "Calabash",
+      "waterSystem": "Ponds",
+      "plan": "Bike and fish around the ponds",
+      "public": "true",
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "createDate": "2022-06-11T14:24:17.028Z",
+      "completed": true,
+      "startDate": "2022-06-11",
+      "startTime": "16:15",
+      "endDate": "2022-06-11",
+      "endTime": "19:30",
+      "state": "North Carolina",
+      "city": "Calabash",
+      "waterSystem": "Azaela course ponds",
+      "plan": "Ride bike around, use new flies I tied to catch bass and crappie.",
+      "public": "true",
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "createDate": "2022-06-11T14:27:46.728Z",
+      "completed": false,
+      "startDate": "2022-06-25",
+      "startTime": "10:30",
+      "endDate": "2022-06-26",
+      "endTime": "11:00",
+      "state": "North Carolina",
+      "city": "Ocean Isle",
+      "waterSystem": "Intercoastal",
+      "plan": "Guided fishing trip with Joe Smith",
+      "public": "true",
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "createDate": "2022-06-11T19:02:28.826Z",
+      "completed": false,
+      "startDate": "2022-06-11",
+      "startTime": "15:30",
+      "endDate": "2022-06-11",
+      "endTime": "17:00",
+      "state": "North Carolina",
+      "city": "Calabash",
+      "waterSystem": "Brunswick Ponds",
+      "plan": "Roller skate from pond to pond, maybe take my seaplane.",
+      "public": "true",
+      "id": 9
+    },
+    {
+      "userId": 5,
+      "createDate": "2022-06-20T23:58:01.300Z",
+      "completed": false,
+      "startDate": "2022-06-21",
+      "startTime": "23:00",
+      "endDate": "2022-06-22",
+      "endtime": "02:00",
+      "state": "North Carolina",
+      "city": "Ocean Isle Beach",
+      "waterSystem": "Ocean Isle Inlet",
+      "plan": "Get bait and rod from sunoco and fish inlet",
+      "public": "true",
+      "id": 10
+    }
+  ],
+  "participants": [
+    {
+      "tripId": 1,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "tripId": 1,
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "tripId": 2,
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "tripId": 2,
+      "userId": 4,
+      "id": 4
+    },
+    {
+      "tripId": 2,
+      "userId": 6,
+      "id": 5
+    },
+    {
+      "tripId": 7,
+      "userId": 2,
+      "id": 6
+    },
+    {
+      "tripId": 7,
+      "userId": 4,
+      "id": 7
+    },
+    {
+      "tripId": 7,
+      "userId": 6,
+      "id": 8
+    },
+    {
+      "tripId": 8,
+      "userId": 2,
+      "id": 9
+    },
+    {
+      "tripId": 8,
+      "userId": 4,
+      "id": 11
+    },
+    {
+      "tripId": 8,
+      "userId": 6,
+      "id": 12
+    },
+    {
+      "tripId": 9,
+      "userId": 2,
+      "id": 13
+    },
+    {
+      "tripId": 9,
+      "userId": 4,
+      "id": 14
+    }
+  ],
+  "fish": [
+    {
+      "userId": 1,
+      "tripId": 1,
+      "species": "Brown Trout",
+      "length": 22.7,
+      "weight": 2.8,
+      "catchMethod": "Dry dropper cuaght on the nymph fly - size 18 zebra midge",
+      "summary": "Casted underneath a large bush where fish was rising, made a couple mends over fast current and dry fly went under. Set the hook and landed downstream.",
+      "image": "https://www.hatchmag.com/sites/default/files/styles/extra-large/public/field/image/Browntrout-JJ.jpg",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "tripId": 1,
+      "species": "Brook Trout",
+      "length": 12.7,
+      "weight": 1,
+      "catchMethod": "Dry dropper cuaght on the nymph fly - size 18 zebra midge",
+      "summary": "Casted underneath a large bush where fish was rising, made a couple mends over fast current and dry fly went under. Set the hook and landed downstream.",
+      "image": "https://wildlife.ca.gov/Portals/0/Images/Fishing/Inland/BrookTrout/small%20wild-brook-trout_Lentzv2.jpg",
+      "id": 2
+    },
+    {
+      "userId": 4,
+      "tripId": 2,
+      "species": "Flounder",
+      "length": 22.7,
+      "weight": 3.4,
+      "catchMethod": "Squid and white teaser - caught it on the teaser",
+      "summary": "Drifted over a sandy patch about 18ft deep and got hit.",
+      "image": "https://www.gannett-cdn.com/presto/2020/12/17/NFTU/64fed31c-c715-4ccd-b054-0cbec5292303-jax_1.jpg",
+      "id": 3
+    }
+  ]
+}
