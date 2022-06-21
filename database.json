@@ -149,36 +149,6 @@
       "bio": "I like fishing with my grandson",
       "primaryMethod": "Spin fishing",
       "id": 10
-    },
-    {
-      "userId": 5,
-      "createDate": "2022-06-20T23:52:15.071Z",
-      "completed": false,
-      "startDate": "2022-06-21",
-      "startTime": "23:30",
-      "endDate": "2022-06-22",
-      "endtime": "02:00",
-      "state": "North Carolina",
-      "city": "Ocean Isle Beach",
-      "waterSystem": "Atlantic Ocean",
-      "plan": "Get rod from sunoco and fish live bait from beach at night, walk to inlet",
-      "public": "true",
-      "id": 11
-    },
-    {
-      "userId": 5,
-      "createDate": "2022-06-20T23:55:41.228Z",
-      "completed": false,
-      "startDate": "2022-06-21",
-      "startTime": "23:30",
-      "endDate": "2022-06-22",
-      "endtime": "02:00",
-      "state": "North Carolina",
-      "city": "Ocean Isle beach",
-      "waterSystem": "Ocean Isle Inlet",
-      "plan": "Fish the inlet with bait",
-      "public": "true",
-      "id": 12
     }
   ],
   "trips": [
