@@ -8,7 +8,6 @@
       "birthday": "1997-12-02",
       "county": "Davidson",
       "state": "TN",
-      "displayLocation": true,
       "createDate": "Mon May 23 2022 20:19:23 GMT-0500 (Central Daylight Time)",
       "profilePhoto": "https://cdn.britannica.com/01/127301-050-68D999A2/Albacore.jpg",
       "bio": "I mainly fly fish for trout in free stone mountain streams and tailwaters throughout SW Virginia, Middle/East Tennessee, and New York",
@@ -23,7 +22,6 @@
       "birthday": "2000-08-03",
       "county": "Suffolk",
       "state": "NY",
-      "displayLocation": true,
       "createDate": "Tues May 24 2022 11:19:23 GMT-0500 (Central Daylight Time)",
       "profilePhoto": "https://www.marlinmag.com/wp-content/uploads/sites/15/2021/09/mar1116_bac_1thumb.jpg",
       "bio": "I mainly fly fish for beaches or lakes in New York",
@@ -38,7 +36,6 @@
       "birthday": "1997-12-17",
       "county": "Suffolk",
       "state": "NY",
-      "displayLocation": false,
       "createDate": "Wed May 25 2022 1:19:23 GMT-0500 (Central Daylight Time)",
       "profilePhoto": "https://vignette.wikia.nocookie.net/41dec044-5172-4af1-a940-928f5f0d1bf7/scale-to-width-down/1200",
       "bio": "I only fish at  the Connetquot River in NY",
@@ -53,7 +50,6 @@
       "birthday": "2000-08-03",
       "county": "Suffolk",
       "state": "NY",
-      "displayLocation": true,
       "createDate": "Wed May 25 2022 1:30:23 GMT-0500 (Central Daylight Time)",
       "profilePhoto": "https://www.aquariumofpacific.org/images/made_new/images-olc-king_crop_400_q85.jpg",
       "bio": "I like catching starfish",
@@ -68,7 +64,6 @@
       "birthday": "1999-09-28",
       "county": "Bedford",
       "state": "Virginia",
-      "displayLocation": "true",
       "createDate": "2022-06-04T17:16:53.323Z",
       "profilePhoto": "https://www.anglersjournal.com/.image/t_share/MTY3NDQyNTk1MDc5NzkyMjQw/prm-iceland-brown-trout.jpg",
       "bio": "Fishing is so fun",
@@ -81,9 +76,8 @@
       "username": "dhoward",
       "email": "dhow@mail.com",
       "birthday": "1995-01-10",
-      "county": "Carroll",
+      "county": "Erie",
       "state": "Ohio",
-      "displayLocation": "true",
       "createDate": "2022-06-04T17:32:32.450Z",
       "profilePhoto": "https://image-cdn.essentiallysports.com/wp-content/uploads/20201230182931/take.jpg",
       "bio": "Ohio is great for fishing",
@@ -98,7 +92,6 @@
       "birthday": "1997-04-01",
       "county": "Suffolk",
       "state": "NewYork",
-      "displayLocation": "true",
       "createDate": "2022-06-04T18:07:22.863Z",
       "profilePhoto": "https://image.shutterstock.com/image-photo/bluefish-pomatomus-saltatrix-7-pound-260nw-1867379185.jpg",
       "bio": "Googan",
@@ -113,7 +106,6 @@
       "birthday": "1998-06-01",
       "county": "Arlington",
       "state": "Virginia",
-      "displayLocation": "true",
       "createDate": "2022-06-04T18:09:18.673Z",
       "profilePhoto": "https://images.squarespace-cdn.com/content/v1/5a75fcb4017db2761a22cd06/1608080140350-6TO6M2CKG385DSEGAP88/Rory+at+2.jpg?format=2500w",
       "bio": "Bot",
@@ -128,7 +120,6 @@
       "birthday": "1969-06-26",
       "county": "Suffolk",
       "state": "NewYork",
-      "displayLocation": "true",
       "createDate": "2022-06-11T14:14:29.977Z",
       "profilePhoto": "https://s3-media0.fl.yelpcdn.com/bphoto/7OJs2VfxjH8AN6GqL1OZHA/258s.jpg",
       "bio": "I like fishing in huntington bay",
@@ -143,12 +134,39 @@
       "birthday": "1944-09-28",
       "county": "Brunswick",
       "state": "NorthCarolina",
-      "displayLocation": "false",
       "createDate": "2022-06-11T19:00:31.626Z",
       "profilePhoto": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https:%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F12%2F2019%2F12%2Frockettes-2000.jpg",
       "bio": "I like fishing with my grandson",
       "primaryMethod": "Spin fishing",
       "id": 10
+    },
+    {
+      "firstName": "John",
+      "lastName": "Toney",
+      "username": "Jtoney",
+      "email": "johnt@mail.com",
+      "birthday": "1967-05-16",
+      "county": "Bedford",
+      "state": "Virginia",
+      "createDate": "2022-06-21T01:59:31.414Z",
+      "profilePhoto": "https://www.marlinmag.com/wp-content/uploads/sites/15/2021/09/mar1116_bac_1thumb.jpg",
+      "bio": "Fishing the lake with Will",
+      "primaryMethod": "Spin fishing",
+      "id": 11
+    },
+    {
+      "firstName": "Peyton",
+      "lastName": "Toney",
+      "username": "Peypey",
+      "email": "peyton@mail.com",
+      "birthday": "1995-06-02",
+      "county": "Williamson",
+      "state": "Tennessee",
+      "createDate": "2022-06-21T02:08:05.862Z",
+      "profilePhoto": "https://www.anglersjournal.com/.image/t_share/MTY3NDQyNTk1MDc5NzkyMjQw/prm-iceland-brown-trout.jpg",
+      "bio": "I fish with dalton and nashy",
+      "primaryMethod": "Spin fishing",
+      "id": 12
     }
   ],
   "trips": [
@@ -164,7 +182,6 @@
       "city": "Lynchburg",
       "waterSystem": "Elk River",
       "plan": "Drive to elk river Thurs morning and fish until noon, eat lunch and then continue fishing 2nd half of the day",
-      "public": true,
       "id": 1
     },
     {
@@ -179,7 +196,6 @@
       "city": "Heathesville",
       "waterSystem": "Ingram Bay",
       "plan": "Catch redfish",
-      "public": true,
       "id": 2
     },
     {
@@ -194,7 +210,6 @@
       "city": "Huntington",
       "waterSystem": "Huntington Bay",
       "plan": "Go fluke fishing",
-      "public": true,
       "id": 3
     },
     {
@@ -209,7 +224,6 @@
       "city": "Northport",
       "waterSystem": "Twin Ponds",
       "plan": "Use worm and bobbers for bass",
-      "public": false,
       "id": 4
     },
     {
@@ -224,7 +238,6 @@
       "city": "Albany",
       "waterSystem": "Hudson River",
       "plan": "Try and catch a smallmouth bass",
-      "public": true,
       "id": 5
     },
     {
@@ -239,7 +252,6 @@
       "city": "Calabash",
       "waterSystem": "Ponds",
       "plan": "Bike and fish around the ponds",
-      "public": "true",
       "id": 6
     },
     {
@@ -254,7 +266,6 @@
       "city": "Calabash",
       "waterSystem": "Azaela course ponds",
       "plan": "Ride bike around, use new flies I tied to catch bass and crappie.",
-      "public": "true",
       "id": 7
     },
     {
@@ -269,7 +280,6 @@
       "city": "Ocean Isle",
       "waterSystem": "Intercoastal",
       "plan": "Guided fishing trip with Joe Smith",
-      "public": "true",
       "id": 8
     },
     {
@@ -284,7 +294,6 @@
       "city": "Calabash",
       "waterSystem": "Brunswick Ponds",
       "plan": "Roller skate from pond to pond, maybe take my seaplane.",
-      "public": "true",
       "id": 9
     },
     {
@@ -299,7 +308,6 @@
       "city": "Ocean Isle Beach",
       "waterSystem": "Ocean Isle Inlet",
       "plan": "Get bait and rod from sunoco and fish inlet",
-      "public": "true",
       "id": 10
     }
   ],
@@ -308,11 +316,6 @@
       "tripId": 1,
       "userId": 1,
       "id": 1
-    },
-    {
-      "tripId": 1,
-      "userId": 2,
-      "id": 2
     },
     {
       "tripId": 2,
