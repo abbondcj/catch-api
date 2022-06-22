@@ -1,59 +1,59 @@
 {
   "users": [
     {
-      "firstName": "Chris",
+      "firstName": "Christopher",
       "lastName": "Abbondandelo",
-      "userName": "abbondcj",
+      "username": "abbondcj",
       "email": "abbondcj@gmail.com",
       "birthday": "1997-12-02",
       "county": "Davidson",
-      "state": "TN",
+      "state": "Tennessee",
       "createDate": "Mon May 23 2022 20:19:23 GMT-0500 (Central Daylight Time)",
       "profilePhoto": "https://cdn.britannica.com/01/127301-050-68D999A2/Albacore.jpg",
       "bio": "I mainly fly fish for trout in free stone mountain streams and tailwaters throughout SW Virginia, Middle/East Tennessee, and New York",
-      "primaryMethod": "Fly",
+      "primaryMethod": "Fly fishing",
       "id": 1
     },
     {
       "firstName": "Mike",
       "lastName": "Abbondandelo",
-      "userName": "mikey",
+      "username": "mikey",
       "email": "mabbondandelo@gmail.com",
       "birthday": "2000-08-03",
       "county": "Suffolk",
-      "state": "NY",
+      "state": "New York",
       "createDate": "Tues May 24 2022 11:19:23 GMT-0500 (Central Daylight Time)",
       "profilePhoto": "https://www.marlinmag.com/wp-content/uploads/sites/15/2021/09/mar1116_bac_1thumb.jpg",
       "bio": "I mainly fly fish for beaches or lakes in New York",
-      "primaryMethod": "Spin",
+      "primaryMethod": "Spin fishing",
       "id": 2
     },
     {
       "firstName": "Ryan",
       "lastName": "Postiglione",
-      "userName": "stigmopfly",
+      "username": "stigmopfly",
       "email": "stig@gmail.com",
       "birthday": "1997-12-17",
       "county": "Suffolk",
-      "state": "NY",
+      "state": "New York",
       "createDate": "Wed May 25 2022 1:19:23 GMT-0500 (Central Daylight Time)",
       "profilePhoto": "https://vignette.wikia.nocookie.net/41dec044-5172-4af1-a940-928f5f0d1bf7/scale-to-width-down/1200",
       "bio": "I only fish at  the Connetquot River in NY",
-      "primaryMethod": "Fly",
+      "primaryMethod": "Fly fishing",
       "id": 3
     },
     {
       "firstName": "Nicole",
       "lastName": "Abbondandelo",
-      "userName": "coley",
+      "username": "coley",
       "email": "flower@gmail.com",
       "birthday": "2000-08-03",
       "county": "Suffolk",
-      "state": "NY",
+      "state": "New York",
       "createDate": "Wed May 25 2022 1:30:23 GMT-0500 (Central Daylight Time)",
       "profilePhoto": "https://www.aquariumofpacific.org/images/made_new/images-olc-king_crop_400_q85.jpg",
       "bio": "I like catching starfish",
-      "primaryMethod": "Spin",
+      "primaryMethod": "Spin fishing",
       "id": 4
     },
     {
@@ -91,7 +91,7 @@
       "email": "scoot@mail.com",
       "birthday": "1997-04-01",
       "county": "Suffolk",
-      "state": "NewYork",
+      "state": "New York",
       "createDate": "2022-06-04T18:07:22.863Z",
       "profilePhoto": "https://image.shutterstock.com/image-photo/bluefish-pomatomus-saltatrix-7-pound-260nw-1867379185.jpg",
       "bio": "Googan",
@@ -119,7 +119,7 @@
       "email": "craig@mail.com",
       "birthday": "1969-06-26",
       "county": "Suffolk",
-      "state": "NewYork",
+      "state": "New York",
       "createDate": "2022-06-11T14:14:29.977Z",
       "profilePhoto": "https://s3-media0.fl.yelpcdn.com/bphoto/7OJs2VfxjH8AN6GqL1OZHA/258s.jpg",
       "bio": "I like fishing in huntington bay",
@@ -133,7 +133,7 @@
       "email": "sand@mail.com",
       "birthday": "1944-09-28",
       "county": "Brunswick",
-      "state": "NorthCarolina",
+      "state": "North Carolina",
       "createDate": "2022-06-11T19:00:31.626Z",
       "profilePhoto": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https:%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F12%2F2019%2F12%2Frockettes-2000.jpg",
       "bio": "I like fishing with my grandson",
@@ -178,7 +178,7 @@
       "startTime": "09:00",
       "endDate": "05-26-2022",
       "endTime": "17:00",
-      "state": "TN",
+      "state": "Tennessee",
       "city": "Lynchburg",
       "waterSystem": "Elk River",
       "plan": "Drive to elk river Thurs morning and fish until noon, eat lunch and then continue fishing 2nd half of the day",
@@ -192,7 +192,7 @@
       "startTime": "07:00",
       "endDate": "06-26-2022",
       "endTime": "13:00",
-      "state": "VA",
+      "state": "Virginia",
       "city": "Heathesville",
       "waterSystem": "Ingram Bay",
       "plan": "Catch redfish",
@@ -206,7 +206,7 @@
       "startTime": "09:00",
       "endDate": "06-3-2022",
       "endTime": "17:00",
-      "state": "NY",
+      "state": "New York",
       "city": "Huntington",
       "waterSystem": "Huntington Bay",
       "plan": "Go fluke fishing",
@@ -220,7 +220,7 @@
       "startTime": "17:00",
       "endDate": "06-6-2022",
       "endTime": "19:00",
-      "state": "NY",
+      "state": "New York",
       "city": "Northport",
       "waterSystem": "Twin Ponds",
       "plan": "Use worm and bobbers for bass",
@@ -234,7 +234,7 @@
       "startTime": "09:30",
       "endDate": "06-8-2022",
       "endTime": "17:00",
-      "state": "NY",
+      "state": "New York",
       "city": "Albany",
       "waterSystem": "Hudson River",
       "plan": "Try and catch a smallmouth bass",
@@ -271,7 +271,7 @@
     {
       "userId": 1,
       "createDate": "2022-06-11T14:27:46.728Z",
-      "completed": false,
+      "completed": true,
       "startDate": "2022-06-25",
       "startTime": "10:30",
       "endDate": "2022-06-26",
@@ -285,7 +285,7 @@
     {
       "userId": 1,
       "createDate": "2022-06-11T19:02:28.826Z",
-      "completed": false,
+      "completed": true,
       "startDate": "2022-06-11",
       "startTime": "15:30",
       "endDate": "2022-06-11",
@@ -309,6 +309,34 @@
       "waterSystem": "Ocean Isle Inlet",
       "plan": "Get bait and rod from sunoco and fish inlet",
       "id": 10
+    },
+    {
+      "userId": 1,
+      "createDate": "2022-06-22T00:04:55.378Z",
+      "completed": false,
+      "startDate": "2022-06-22",
+      "startTime": "01:10",
+      "endDate": "2022-06-22",
+      "endtime": "03:10",
+      "state": "North Carolina",
+      "city": "Sunset Beach",
+      "waterSystem": "Atlantic Ocean",
+      "plan": "Use shrimp to catch flounder",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "createDate": "2022-06-22T00:18:12.080Z",
+      "completed": false,
+      "startDate": "2022-06-25",
+      "startTime": "08:00",
+      "endDate": "2022-06-25",
+      "endtime": "20:00",
+      "state": "Tennessee",
+      "city": "Lynchburg",
+      "waterSystem": "Duck River",
+      "plan": "No plans",
+      "id": 14
     }
   ],
   "participants": [
@@ -371,6 +399,21 @@
       "tripId": 9,
       "userId": 4,
       "id": 14
+    },
+    {
+      "tripId": 14,
+      "userId": 2,
+      "id": 15
+    },
+    {
+      "tripId": 14,
+      "userId": 11,
+      "id": 16
+    },
+    {
+      "tripId": 14,
+      "userId": 3,
+      "id": 17
     }
   ],
   "fish": [
@@ -406,6 +449,39 @@
       "summary": "Drifted over a sandy patch about 18ft deep and got hit.",
       "image": "https://www.gannett-cdn.com/presto/2020/12/17/NFTU/64fed31c-c715-4ccd-b054-0cbec5292303-jax_1.jpg",
       "id": 3
+    },
+    {
+      "userId": 1,
+      "tripId": 11,
+      "species": "Kingfish",
+      "length": 22,
+      "weight": 4.4,
+      "catchMethod": "hi lo rig",
+      "summary": "squid and shrimp on incoming tide",
+      "image": "photo link",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "tripId": 8,
+      "species": "Mahi Mahi",
+      "length": 44.6,
+      "weight": 14,
+      "catchMethod": "popper",
+      "summary": "Caught casting to bait",
+      "image": "image here",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "tripId": 14,
+      "species": "Tuna",
+      "length": 1000,
+      "weight": 5,
+      "catchMethod": "worm",
+      "summary": "big worm",
+      "image": "picture",
+      "id": 6
     }
   ]
 }
