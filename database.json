@@ -3,7 +3,6 @@
     {
       "firstName": "Christopher",
       "lastName": "Abbondandelo",
-      "username": "abbondcj",
       "email": "abbondcj@gmail.com",
       "birthday": "1997-12-02",
       "county": "Davidson",
@@ -17,7 +16,6 @@
     {
       "firstName": "Mike",
       "lastName": "Abbondandelo",
-      "username": "mikey",
       "email": "mabbondandelo@gmail.com",
       "birthday": "2000-08-03",
       "county": "Suffolk",
@@ -31,7 +29,6 @@
     {
       "firstName": "Ryan",
       "lastName": "Postiglione",
-      "username": "stigmopfly",
       "email": "stig@gmail.com",
       "birthday": "1997-12-17",
       "county": "Suffolk",
@@ -45,7 +42,6 @@
     {
       "firstName": "Nicole",
       "lastName": "Abbondandelo",
-      "username": "coley",
       "email": "flower@gmail.com",
       "birthday": "2000-08-03",
       "county": "Suffolk",
@@ -59,7 +55,6 @@
     {
       "firstName": "Erin",
       "lastName": "Toney",
-      "username": "elt",
       "email": "elt@mail.com",
       "birthday": "1999-09-28",
       "county": "Bedford",
@@ -73,7 +68,6 @@
     {
       "firstName": "Dalton",
       "lastName": "Howard",
-      "username": "dhoward",
       "email": "dhow@mail.com",
       "birthday": "1995-01-10",
       "county": "Erie",
@@ -87,7 +81,6 @@
     {
       "firstName": "Scott",
       "lastName": "Venturino",
-      "username": "scotty",
       "email": "scoot@mail.com",
       "birthday": "1997-04-01",
       "county": "Suffolk",
@@ -101,7 +94,6 @@
     {
       "firstName": "Charlie",
       "lastName": "Lukacs",
-      "username": "Chuck",
       "email": "chuck@mail.com",
       "birthday": "1998-06-01",
       "county": "Arlington",
@@ -115,7 +107,6 @@
     {
       "firstName": "Craig",
       "lastName": "Abbey",
-      "username": "craigelbagel",
       "email": "craig@mail.com",
       "birthday": "1969-06-26",
       "county": "Suffolk",
@@ -129,7 +120,6 @@
     {
       "firstName": "Sandra",
       "lastName": "Abbondandelo",
-      "username": "Sandy",
       "email": "sand@mail.com",
       "birthday": "1944-09-28",
       "county": "Brunswick",
@@ -143,7 +133,6 @@
     {
       "firstName": "John",
       "lastName": "Toney",
-      "username": "Jtoney",
       "email": "johnt@mail.com",
       "birthday": "1967-05-16",
       "county": "Bedford",
@@ -157,7 +146,6 @@
     {
       "firstName": "Peyton",
       "lastName": "Toney",
-      "username": "Peypey",
       "email": "peyton@mail.com",
       "birthday": "1995-06-02",
       "county": "Williamson",
@@ -167,27 +155,26 @@
       "bio": "I fish with dalton and nashy",
       "primaryMethod": "Spin fishing",
       "id": 12
+    },
+    {
+      "firstName": "Test new user",
+      "lastName": "TEST",
+      "email": "test1@mail.com",
+      "birthday": "1991-01-12",
+      "county": "Nash",
+      "state": "NC",
+      "createDate": "2022-06-23T13:42:19.792Z",
+      "profilePhoto": "https://mtv-main-assets.mountvernon.org/files/pages/gilbert-stuart-george-6.jpg",
+      "bio": "Testing new user regiset",
+      "primaryMethod": "Spin fishing",
+      "id": 13
     }
   ],
   "trips": [
     {
       "userId": 1,
-      "createDate": "Tues May 24 2022 11:19:23 GMT-0500 (Central Daylight Time)",
-      "completed": false,
-      "startDate": "05-26-2022",
-      "startTime": "09:00",
-      "endDate": "05-26-2022",
-      "endTime": "17:00",
-      "state": "TN",
-      "city": "Lynchburg",
-      "waterSystem": "Elk River",
-      "plan": "Drive to elk river Thurs morning and fish until noon, eat lunch and then continue fishing 2nd half of the day",
-      "id": 1
-    },
-    {
-      "userId": 1,
       "createDate": "Tues Jun 7 2022 6:19:23 GMT-0500 (Central Daylight Time)",
-      "completed": false,
+      "completed": true,
       "startDate": "06-26-2022",
       "startTime": "07:00",
       "endDate": "06-26-2022",
@@ -337,14 +324,23 @@
       "waterSystem": "Duck River",
       "plan": "No plans",
       "id": 14
+    },
+    {
+      "userId": 1,
+      "createDate": "2022-06-23T13:51:11.324Z",
+      "completed": false,
+      "startDate": "2022-06-30",
+      "startTime": "09:50",
+      "endDate": "2022-07-01",
+      "endtime": "11:50",
+      "state": "LA",
+      "city": "New Orleans",
+      "waterSystem": "Bayou",
+      "plan": "Testing new trip form",
+      "id": 15
     }
   ],
   "participants": [
-    {
-      "tripId": 1,
-      "userId": 1,
-      "id": 1
-    },
     {
       "tripId": 2,
       "userId": 2,
@@ -414,37 +410,25 @@
       "tripId": 14,
       "userId": 3,
       "id": 17
+    },
+    {
+      "tripId": 15,
+      "userId": 2,
+      "id": 18
+    },
+    {
+      "tripId": 15,
+      "userId": 4,
+      "id": 19
     }
   ],
   "fish": [
     {
-      "userId": 1,
-      "tripId": 1,
-      "species": "Brown Trout",
-      "length": 22.7,
-      "weight": 2.8,
-      "catchMethod": "Dry dropper cuaght on the nymph fly - size 18 zebra midge",
-      "summary": "Casted underneath a large bush where fish was rising, made a couple mends over fast current and dry fly went under. Set the hook and landed downstream.",
-      "image": "https://www.hatchmag.com/sites/default/files/styles/extra-large/public/field/image/Browntrout-JJ.jpg",
-      "id": 1
-    },
-    {
-      "userId": 2,
-      "tripId": 1,
-      "species": "Brook Trout",
-      "length": 12.7,
-      "weight": 1,
-      "catchMethod": "Dry dropper cuaght on the nymph fly - size 18 zebra midge",
-      "summary": "Casted underneath a large bush where fish was rising, made a couple mends over fast current and dry fly went under. Set the hook and landed downstream.",
-      "image": "https://wildlife.ca.gov/Portals/0/Images/Fishing/Inland/BrookTrout/small%20wild-brook-trout_Lentzv2.jpg",
-      "id": 2
-    },
-    {
       "userId": 4,
       "tripId": 2,
       "species": "Flounder",
-      "length": 22.7,
-      "weight": 3.4,
+      "length": "22.7",
+      "weight": "2.3",
       "catchMethod": "Squid and white teaser - caught it on the teaser",
       "summary": "Drifted over a sandy patch about 18ft deep and got hit.",
       "image": "https://www.gannett-cdn.com/presto/2020/12/17/NFTU/64fed31c-c715-4ccd-b054-0cbec5292303-jax_1.jpg",
@@ -454,34 +438,45 @@
       "userId": 1,
       "tripId": 11,
       "species": "Kingfish",
-      "length": 22,
-      "weight": 4.4,
+      "length": "22",
+      "weight": "4.4",
       "catchMethod": "hi lo rig",
       "summary": "squid and shrimp on incoming tide",
-      "image": "photo link",
+      "image": "https://www.delphfishing.com/wp-content/uploads/2014/11/kingfish-2-scomberomorus-cavalla.jpg",
       "id": 4
     },
     {
       "userId": 1,
       "tripId": 8,
       "species": "Mahi Mahi",
-      "length": 44.6,
-      "weight": 14,
+      "length": "44.6",
+      "weight": "14",
       "catchMethod": "popper",
       "summary": "Caught casting to bait",
-      "image": "image here",
+      "image": "https://cdn.shopify.com/s/files/1/0230/8793/9662/files/Nick_Stanczyk_PELAGIC_Mahi_Mahi.jpg?v=1608243144",
       "id": 5
     },
     {
       "userId": 1,
       "tripId": 14,
       "species": "Tuna",
-      "length": 1000,
-      "weight": 5,
+      "length": "1000",
+      "weight": "5",
       "catchMethod": "worm",
       "summary": "big worm",
-      "image": "picture",
+      "image": "https://www.silive.com/resizer/_YkRi-fNqIqpZw--Vr0bzi33V98=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/VGWSHEQ4UBFFNFLC7ZYK7LRZZM.jpg",
       "id": 6
+    },
+    {
+      "userId": 1,
+      "tripId": 15,
+      "species": "Sheepshead",
+      "length": "17",
+      "weight": "6",
+      "catchMethod": "Caught on fluke rif",
+      "summary": "Caught on piling -- test fish form",
+      "image": "https://img.texasmonthly.com/2022/04/fishing-excursions-water.jpg?auto=compress&crop=faces&fit=crop&fm=jpg&h=900&ixlib=php-1.2.1&q=45&w=1600",
+      "id": 7
     }
   ]
 }
