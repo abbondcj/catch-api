@@ -244,7 +244,7 @@
     {
       "userId": 1,
       "createDate": "2022-06-11T14:24:17.028Z",
-      "completed": false,
+      "completed": true,
       "startDate": "2022-06-11",
       "startTime": "16:15",
       "endDate": "2022-06-11",
@@ -338,6 +338,20 @@
       "waterSystem": "Bayou",
       "plan": "Testing new trip form",
       "id": 15
+    },
+    {
+      "userId": 1,
+      "createDate": "2022-06-24T14:05:38.048Z",
+      "completed": false,
+      "startDate": "2022-06-30",
+      "startTime": "09:00",
+      "endDate": "2022-06-30",
+      "endtime": "21:00",
+      "state": "TN",
+      "city": "Pegram",
+      "waterSystem": "Harpeth River",
+      "plan": "We're getting bojangles first. Then we are driving in my car to Harpeth river and floating/fishing all day long.",
+      "id": 16
     }
   ],
   "participants": [
@@ -420,6 +434,16 @@
       "tripId": 15,
       "userId": 4,
       "id": 19
+    },
+    {
+      "tripId": 16,
+      "userId": 5,
+      "id": 20
+    },
+    {
+      "tripId": 16,
+      "userId": 12,
+      "id": 21
     }
   ],
   "fish": [
